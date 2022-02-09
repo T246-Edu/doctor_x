@@ -15,8 +15,10 @@ h1 {
 #articles {
   align-items: center;
   justify-content: center;
-  display: flex;
-  flex-wrap: wrap;
+  display: block;
+}
+#articles img {
+  width: auto;
 }
 header {
   border-bottom: solid 2px black;

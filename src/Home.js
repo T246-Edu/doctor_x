@@ -2,20 +2,29 @@ import React from "react";
 import { homeArticles } from "./data";
 import "./App.css";
 
+function getWindowDimensions() {
+  const { innerWidth: width, innerHeight: height } = window;
+  return {
+    width,
+    height,
+  };
+}
 /*Home Page Content*/
-const Home = () => (
-  <main>
-    <h1>Doctor X, Your health issues detector.</h1>
-    <img
-      id="home-splash"
-      src={`..${process.env.PUBLIC_URL}/img/mental-health.png`}
-      alt="How YourHealth can help"
-    />
-    {homeArticles.map((article) => (
-      <Article key={article.title} {...article} />
-    ))}
-  </main>
-);
+function Home() {
+  return (
+    <main>
+      <h1>Doctor X, Your health issues detector.</h1>
+      <img
+        id="home-splash"
+        src={`..${process.env.PUBLIC_URL}/img/mental-health.png`}
+        alt="How YourHealth can help"
+      />
+      {homeArticles.map((article) => (
+        <Article key={article.title} {...article} />
+      ))}
+    </main>
+  );
+}
 
 const Article = ({ title, content, img }) => (
   <article id="articles">
