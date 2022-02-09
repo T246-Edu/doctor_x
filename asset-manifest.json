@@ -1,15 +1,15 @@
 {
-  "main.css": "/doctor_x/home/static/css/main.00735c25.chunk.css",
-  "main.js": "/doctor_x/home/static/js/main.6e03767a.chunk.js",
-  "main.js.map": "/doctor_x/home/static/js/main.6e03767a.chunk.js.map",
-  "runtime~main.js": "/doctor_x/home/static/js/runtime~main.59e58989.js",
-  "runtime~main.js.map": "/doctor_x/home/static/js/runtime~main.59e58989.js.map",
-  "static/css/2.09fc6bc6.chunk.css": "/doctor_x/home/static/css/2.09fc6bc6.chunk.css",
-  "static/js/2.7addf65f.chunk.js": "/doctor_x/home/static/js/2.7addf65f.chunk.js",
-  "static/js/2.7addf65f.chunk.js.map": "/doctor_x/home/static/js/2.7addf65f.chunk.js.map",
-  "index.html": "/doctor_x/home/index.html",
-  "precache-manifest.e98c3a617f82d8eb41073358a0da0258.js": "/doctor_x/home/precache-manifest.e98c3a617f82d8eb41073358a0da0258.js",
-  "service-worker.js": "/doctor_x/home/service-worker.js",
-  "static/css/2.09fc6bc6.chunk.css.map": "/doctor_x/home/static/css/2.09fc6bc6.chunk.css.map",
-  "static/css/main.00735c25.chunk.css.map": "/doctor_x/home/static/css/main.00735c25.chunk.css.map"
+  "main.css": "/doctor_x/static/css/main.00735c25.chunk.css",
+  "main.js": "/doctor_x/static/js/main.80e96260.chunk.js",
+  "main.js.map": "/doctor_x/static/js/main.80e96260.chunk.js.map",
+  "runtime~main.js": "/doctor_x/static/js/runtime~main.2cf206cd.js",
+  "runtime~main.js.map": "/doctor_x/static/js/runtime~main.2cf206cd.js.map",
+  "static/css/2.09fc6bc6.chunk.css": "/doctor_x/static/css/2.09fc6bc6.chunk.css",
+  "static/js/2.952a52cc.chunk.js": "/doctor_x/static/js/2.952a52cc.chunk.js",
+  "static/js/2.952a52cc.chunk.js.map": "/doctor_x/static/js/2.952a52cc.chunk.js.map",
+  "index.html": "/doctor_x/index.html",
+  "precache-manifest.b90d42e330f3fd5912cc55b2259ee895.js": "/doctor_x/precache-manifest.b90d42e330f3fd5912cc55b2259ee895.js",
+  "service-worker.js": "/doctor_x/service-worker.js",
+  "static/css/2.09fc6bc6.chunk.css.map": "/doctor_x/static/css/2.09fc6bc6.chunk.css.map",
+  "static/css/main.00735c25.chunk.css.map": "/doctor_x/static/css/main.00735c25.chunk.css.map"
 }
