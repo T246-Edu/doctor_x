@@ -26,6 +26,22 @@ export const people = [
 /*Instructions on the home page*/
 export const homeArticles = [
   {
+    title: "About diagnosis",
+    url: "",
+    content: [
+      "Misdiagnosis of malaria and Parkinson’s disease is common, so our objective is",
+      "to assist you define yourself as diseased or not! Helping you to check yourself and reassuring",
+      "you about your health are our central missions.If you are a doctor and want to check that your ",
+      "diagnosis is right, this diagnosis app is for you.As a patient, if you want to check by yourself,",
+      " you can do it by using this app.Just follow the upcoming instructions for each disease and you",
+      "will check successfully.",
+    ],
+    img: {
+      name: "medicO.jpg",
+      alt: "diagnosis",
+    },
+  },
+  {
     title: "Malaria",
     content: [
       "Instructions: ",
