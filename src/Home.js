@@ -6,8 +6,8 @@ import CardScroll from "./Scroll.tsx";
 function Home() {
   return (
     <main>
+      <h1>Doctor X, Your health issues detector.</h1>
       <div id="Cards" style={{ width: "100%" }}>
-        <h1>Doctor X, Your health issues detector.</h1>
         <img
           id="home-splash"
           src={`..${process.env.PUBLIC_URL}/img/mental-health.png`}
