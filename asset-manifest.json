@@ -1,15 +1,15 @@
 {
-  "main.css": "/doctor_x/static/css/main.d2f0edf9.chunk.css",
-  "main.js": "/doctor_x/static/js/main.7c16e522.chunk.js",
-  "main.js.map": "/doctor_x/static/js/main.7c16e522.chunk.js.map",
+  "main.css": "/doctor_x/static/css/main.4c17354f.chunk.css",
+  "main.js": "/doctor_x/static/js/main.5174d297.chunk.js",
+  "main.js.map": "/doctor_x/static/js/main.5174d297.chunk.js.map",
   "runtime~main.js": "/doctor_x/static/js/runtime~main.2cf206cd.js",
   "runtime~main.js.map": "/doctor_x/static/js/runtime~main.2cf206cd.js.map",
   "static/css/2.09fc6bc6.chunk.css": "/doctor_x/static/css/2.09fc6bc6.chunk.css",
   "static/js/2.952a52cc.chunk.js": "/doctor_x/static/js/2.952a52cc.chunk.js",
   "static/js/2.952a52cc.chunk.js.map": "/doctor_x/static/js/2.952a52cc.chunk.js.map",
   "index.html": "/doctor_x/index.html",
-  "precache-manifest.73bf844c3a4ef6c042b1500112269ea2.js": "/doctor_x/precache-manifest.73bf844c3a4ef6c042b1500112269ea2.js",
+  "precache-manifest.a5afc19346c44d46240af7e4cc65fc90.js": "/doctor_x/precache-manifest.a5afc19346c44d46240af7e4cc65fc90.js",
   "service-worker.js": "/doctor_x/service-worker.js",
   "static/css/2.09fc6bc6.chunk.css.map": "/doctor_x/static/css/2.09fc6bc6.chunk.css.map",
-  "static/css/main.d2f0edf9.chunk.css.map": "/doctor_x/static/css/main.d2f0edf9.chunk.css.map"
+  "static/css/main.4c17354f.chunk.css.map": "/doctor_x/static/css/main.4c17354f.chunk.css.map"
 }
