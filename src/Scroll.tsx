@@ -11,13 +11,16 @@ export default class CardScroll extends Component {
     return (
       <div>
         {homeArticles.map((article) => (
-          <CardImage
-            content={article.content}
-            path={`..${process.env.PUBLIC_URL}/img/${article.img.name}`}
-            title={article.title}
-            url={article.url}
-            alt={article.img.alt}
-          ></CardImage>
+          <>
+            <CardImage
+              content={article.content}
+              path={`..${process.env.PUBLIC_URL}/img/${article.img.name}`}
+              title={article.title}
+              url={article.url}
+              alt={article.img.alt}
+            ></CardImage>
+            <hr></hr>
+          </>
         ))}
       </div>
     );
