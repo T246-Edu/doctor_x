@@ -34,6 +34,7 @@ export const homeArticles = [
       "    Then, click on Malaria, and drop the image and it will be processed successfully",
       "    Finally, wait for the results.",
     ],
+    url: "",
     img: {
       name: "stethoscope.jpg",
       alt: "Malaria",
@@ -41,6 +42,7 @@ export const homeArticles = [
   },
   {
     title: "Parkinsons",
+    url: "",
     content: [
       "Instructions: ",
       "The test used for this disease is the “biomedical voice measurements” test.",
