@@ -28,13 +28,13 @@ const App = () => (
     <div id="wrapper">
       <nav className="toggle-menu">
         <ul>
-          <NavLinkItem anchor="Home" path="/home" />
+          <NavLinkItem anchor="Home" path="/Home" />
           <NavLinkItem anchor="About Us" path="/about" />
           <NavLinkItem anchor="Contact" path="/contact" />
           <NavLinkItem anchor="recruitment" path="/recruitment" />
         </ul>
       </nav>
-      <Route exact path="/home" render={() => <Home />} />
+      <Route exact path="/Home" render={() => <Home />} />
       <Route exact path="/about" render={() => <About />} />
       <Route exact path="/contact" render={() => <Contact />} />
       <Route exact path="/recruitment" render={() => <Recruitment />} />
