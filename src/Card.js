@@ -37,7 +37,7 @@ export default function CardImage({ path, title, content, url, alt }) {
           </Typography>
         </CardContent>
         <CardActions>
-          <Button size="small" onClick={() => Window.open(url)}>
+          <Button size="small" onClick={() => window.open(url)}>
             Learn More
           </Button>
           <Button size="small">Ok</Button>

@@ -27,7 +27,7 @@ export const people = [
 export const homeArticles = [
   {
     title: "About diagnosis",
-    url: "",
+    url: "https://www.cdc.gov/malaria/diagnosis_treatment/diagnosis.html#:~:text=Malaria%20parasites%20can%20be%20identified,the%20parasites%20a%20distinctive%20appearance.",
     content: [
       "Misdiagnosis of malaria and Parkinson’s disease is common, so our objective is",
       "to assist you define yourself as diseased or not! Helping you to check yourself and reassuring",
@@ -50,7 +50,7 @@ export const homeArticles = [
       "    Then, click on Malaria, and drop the image and it will be processed successfully",
       "    Finally, wait for the results.",
     ],
-    url: "",
+    url: "https://www.cdc.gov/malaria/about/faqs.html#:~:text=Malaria%20is%20a%20serious%20and,%2C%20and%20flu%2Dlike%20illness.",
     img: {
       name: "stethoscope.jpg",
       alt: "Malaria",
@@ -58,7 +58,7 @@ export const homeArticles = [
   },
   {
     title: "Parkinsons",
-    url: "",
+    url: "https://www.nia.nih.gov/health/parkinsons-disease#:~:text=Parkinson's%20disease%20is%20a%20brain,have%20difficulty%20walking%20and%20talking.",
     content: [
       "Instructions: ",
       "The test used for this disease is the “biomedical voice measurements” test.",
