@@ -18,26 +18,24 @@ const Home = () => (
 );
 
 const Article = ({ title, content, img }) => (
-  <main>
-    <article id="articles">
-      <img
-        src={`..${process.env.PUBLIC_URL}/img/${img.name}`}
-        alt={img.alt}
-        id={title}
-      />
-      <div>
-        <h2>{title}</h2>
-        <h3>{content[0]}</h3>
-        <ol>
-          {content.map((item) => {
-            if (item != content[0]) {
-              return <li>{item}</li>;
-            }
-          })}
-        </ol>
-      </div>
-    </article>
-  </main>
+  <article id="articles">
+    <img
+      src={`..${process.env.PUBLIC_URL}/img/${img.name}`}
+      alt={img.alt}
+      id={title}
+    />
+    <div>
+      <h2>{title}</h2>
+      <h3>{content[0]}</h3>
+      <ol>
+        {content.map((item) => {
+          if (item != content[0]) {
+            return <li>{item}</li>;
+          }
+        })}
+      </ol>
+    </div>
+  </article>
 );
 
 export default Home;

@@ -12,7 +12,12 @@ h1 {
   border-radius: 0 0 20px 20px;
   text-align: center;
 }
-
+#articles {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
 header {
   border-bottom: solid 2px black;
   display: flex;
