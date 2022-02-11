@@ -2,14 +2,14 @@
 export const people = [
   {
     name: "Hassan Adel",
-    position: "CEO",
+    position: "Founder & CEO",
     email: "hassan.2419013@stemgharbiya.moe.edu.eg",
     about: "High school senior @Gharbia STEM school",
     img: "jennifer.png",
   },
   {
     name: "Tawfiq Bhyry",
-    position: "Head of Technical Support",
+    position: "Co-founder & Head of TS",
     email: "tawfik.2419010@stemdakahlia.moe.edu.eg",
     about: "High school senior @Dakahlia STEM school",
     img: "bob.png",
